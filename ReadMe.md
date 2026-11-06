@@ -1,27 +1,157 @@
-# 💫 About Me:
-👋 I’m Manish Suriyal, a Full Stack Developer based in Dehradun, Uttarakhand, with a B.Sc. in Information Technology.<br><br>💻 I build responsive web applications using JavaScript, TypeScript, React.js, Next.js, and Node.js. My experience includes REST API development, database design, AI integration, and automated deployments.<br><br>🚀 I’ve worked with Offbeat Pixels and YugaYatra Retail, contributing to frontend and backend development. My projects include an AI-powered Chrome extension for GitHub code reviews and a MERN-stack AI document generator.<br><br>🎯 I enjoy solving practical problems, writing clean code, and turning ideas into reliable applications.
+# 👋 Hey, I'm Manish Suriyal
 
+<!-- Animated Header -->
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-suriyal-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishsuriyal21@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Manish%20Suriyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=58&descSize=17" width="100%" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manish012321&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manish012321&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manish012321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+AI-Powered+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manish012321&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/manish-suriyal-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:manishsuriyal21@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://manishsuriyal.dev">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manish012321&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=manish012321&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm **Manish Suriyal**, a Full Stack Developer from Dehradun, India, with a B.Sc. in Information Technology.
+
+- 💻 Building responsive and scalable web applications.
+- ⚛️ Working with React.js, Next.js, Node.js and modern JavaScript.
+- 🤖 Exploring AI integration and AI-powered applications.
+- 🗄️ Experienced with REST APIs, MongoDB, PostgreSQL and Supabase.
+- 🔧 Worked with Offbeat Pixels and YugaYatra Retail.
+- 🎯 Focused on writing clean code and solving real-world problems.
+
+> "Great software isn't just about writing code; it's about solving problems."
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase&perline=8" />
+</p>
+
+### Tools & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma&perline=8" />
+</p>
+
+---
+
+## 💡 Featured Projects
+
+### 🤖 AI-Powered GitHub PR Summarizer
+An AI-powered Chrome extension that helps developers understand GitHub pull requests through automated code summaries and explanations.
+
+**Technologies:** JavaScript, Manifest V3, Node.js, Express.js, Groq AI.
+
+### 📄 AI-Powered SOP Generator
+
+A MERN-stack application that generates professional Standard Operating Procedures using AI, with authentication, workspaces and PDF export.
+
+**Technologies:** React, Node.js, Express.js, MongoDB, Zustand, Gemini AI.
+
+🔗 [View Repository](https://github.com/manish012321/SOP-Generator)
+
+### 🧠 CodeSense AI
+
+An AI-powered code review application that helps developers analyze and improve their code.
+
+**Technologies:** React, Vite, Express.js, Monaco Editor, Gemini AI.
+
+🔗 [View Repository](https://github.com/manish012321/CodeSense-AI)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manish012321&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manish012321&theme=tokyonight&hide_border=true" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish012321&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manish012321/manish012321/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manish012321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+</div>
+
+---
+
+## 🎬 Project Demos
+
+I enjoy building applications that solve practical problems.
+
+Check out my projects and their demonstrations:
+
+🌐 [Portfolio Website](https://manishsuriyal.dev)
+
+💻 [GitHub Repositories](https://github.com/manish012321?tab=repositories)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on projects and exploring new opportunities.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/manish-suriyal-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Manish%20Suriyal-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:manishsuriyal21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/manish012321">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=manish012321&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
